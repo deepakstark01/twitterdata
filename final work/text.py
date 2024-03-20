@@ -1,0 +1,6 @@
+f = open('readme.txt', 'x')
+f.writelines('hey')
+f.writelines('hey')
+f.writelines('hey')
+f.writelines('hey')
+f.writelines('hey')
